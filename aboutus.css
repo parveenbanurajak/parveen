@@ -1,0 +1,31 @@
+
+*{   
+    background: black;
+    width: 100%;
+    color: rgb(252, 248, 248);
+    font-family: cursive;
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+.d
+{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  justify-content: center;
+  padding-left: 250px;
+  padding-right: 250px;
+  padding-top: 100px;
+  padding-bottom: 750px;
+  max-width: max-content;
+  height: 500px;
+  
+}
+span{
+  color: aqua;
+}
+

@@ -1,0 +1,24 @@
+*
+{
+    margin: 0;
+    background-color: black;
+    color:rgb(242, 248, 248);
+    font-family:cursive;
+}
+
+.container
+{
+   text-decoration: none;
+   justify-content: space-evenly;
+   padding-right: 90px;
+}
+.button
+{
+    justify-content: center;
+    text-align: center;
+    padding-top: 230px;
+}
+
+span{
+    color: aqua;
+}
